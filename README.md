@@ -1,5 +1,3 @@
-<style>img { border: 1px solid #ccc; }</style>
-
 # ps4ct
 problem solving for coding test
 
