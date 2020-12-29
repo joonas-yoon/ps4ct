@@ -14,9 +14,9 @@ problem solving for coding test
 |D-95|2021/01/13|[BOJ 17072 - 아스키 아트](https://www.acmicpc.net/problem/17072)|||
 |D-96|2021/01/13|[BOJ 17269 - 이름궁합 테스트](https://www.acmicpc.net/problem/17269)|||
 |D-97|2021/01/06|[BOJ 16768 - Mooyo Mooyo](https://www.acmicpc.net/problem/16768)|||
-|D-98|2021/01/06|[BOJ 5052 - 전화번호 목록](https://www.acmicpc.net/problem/5052)|||
-|D-99|2020/12/30|[프로그래머스 - 문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|2020 KAKAO BLIND|![joonas](https://avatars0.githubusercontent.com/u/9527681?s=20)|
-|D-100|2020/12/30|[프로그래머스 - 삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)||![joonas](https://avatars0.githubusercontent.com/u/9527681?s=20)|
+|D-98|2021/01/06|[BOJ 5052 - 전화번호 목록](https://www.acmicpc.net/problem/5052)||
+|D-99|2020/12/30|[프로그래머스 - 문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|2020 KAKAO BLIND|<img class="avatar" height="20" alt="@joonas" src="https://avatars0.githubusercontent.com/u/9527681" width="20"> <img class="avatar" height="20" alt="@jlogkim" src="https://avatars0.githubusercontent.com/u/74028313" width="20">|
+|D-100|2020/12/30|[프로그래머스 - 삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)||<img class="avatar" height="20" alt="@joonas" src="https://avatars0.githubusercontent.com/u/9527681" width="20"> <img class="avatar" height="20" alt="@jlogkim" src="https://avatars0.githubusercontent.com/u/74028313" width="20">|
 
 ## People
 
