@@ -3,6 +3,10 @@ problem solving for coding test
 
 ![every wednesday](https://img.shields.io/badge/every-wednesday-green) ![penalty](https://img.shields.io/badge/penalty-$%2010-red)
 
+## Workbook
+
+[연습문제 모음](./WORKBOOK.md)
+
 ## Problems
 
 |#|날짜|문제|해결|
