@@ -3,12 +3,18 @@ problem solving for coding test
 
 ![every wednesday](https://img.shields.io/badge/every-wednesday-green) ![penalty](https://img.shields.io/badge/penalty-$%2010-red)
 
+## Workbook
+
+[연습문제 모음](./workbook/)
+
 ## Problems
 
 |#|날짜|문제|해결|
 |:--:|--|:--|--|
-|D-85|2021/02/17|*TBD*||
-|D-86|2021/02/17|*TBD*||
+|D-83|2021/02/24|*TBD*||
+|D-84|2021/02/24|*TBD*||
+|D-85|2021/02/17|[KAKAO BLIND 2018 - 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)||
+|D-86|2021/02/17|[KAKAO BLIND 2018 - 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)||
 |D-87|2021/02/10|[프로그래머스 - 124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)||
 |D-88|2021/02/10|[KAKAO BLIND 2018 - 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)||
 |D-89|2021/02/03|[BOJ 3197 - 백조의 호수](https://www.acmicpc.net/problem/3197)||
