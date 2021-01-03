@@ -5,7 +5,7 @@ problem solving for coding test
 
 ## Workbook
 
-[연습문제 모음](./WORKBOOK.md)
+[연습문제 모음](./workbook/)
 
 ## Problems
 
