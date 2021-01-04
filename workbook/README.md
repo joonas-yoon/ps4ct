@@ -8,8 +8,8 @@
 |문제|[@ddjddd](https://github.com/ddjddd)|[@joonas](https://github.com/joonas-yoon)|[@jlogkim](https://github.com/jlogkim)|
 |:--|:--:|:--:|:--:|
 |[BOJ 20529 - 가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529)||✔||
-|[BOJ 16507 - 어두운 건 무서워](https://www.acmicpc.net/problem/16507)||||
-|[BOJ 16956 - 늑대와 양](https://acmicpc.net/problem/16956)||||
+|[BOJ 16507 - 어두운 건 무서워](https://www.acmicpc.net/problem/16507)||✔||
+|[BOJ 16956 - 늑대와 양](https://acmicpc.net/problem/16956)||✔||
 |[BOJ 11066 - 파일 합치기](https://www.acmicpc.net/problem/11066)||||
 |[BOJ 1439 - 뒤집기](https://www.acmicpc.net/problem/1439)||||
 |[BOJ 2146 - 다리 만들기](https://www.acmicpc.net/problem/2146)||||
