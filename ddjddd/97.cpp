@@ -54,7 +54,6 @@ bool dfs(int x, int y, bool check) {
             }
         }
     }
-    // while( !s.empty() ) s.pop();
     return false;
 }
 
