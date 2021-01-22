@@ -24,3 +24,9 @@
 |[BOJ 20364 - 부동산 다툼](https://www.acmicpc.net/problem/20364)|✔|✔|✔|
 |[BOJ 11437 - LCA](https://www.acmicpc.net/problem/11437)||||
 |[BOJ 2250 - 트리의 높이와 너비](https://www.acmicpc.net/problem/2250)||||
+|[BOJ 1655 - 가운데를 말해요](https://www.acmicpc.net/problem/1655)||||
+|[BOJ 2580 - 스도쿠](https://www.acmicpc.net/problem/2580)||||
+|[BOJ 17831 - 대기업 승범이네](https://www.acmicpc.net/problem/17831)||||
+|[BOJ 2593 - 엘리베이터](https://www.acmicpc.net/problem/2593)||||
+|[BOJ 1655 - 가운데를 말해요](https://www.acmicpc.net/problem/1655)||||
+|[BOJ 1269 - 대칭 차집합](https://www.acmicpc.net/problem/1269)||||
