@@ -21,6 +21,6 @@
 |[BOJ 19238 - 스타트 택시](https://www.acmicpc.net/problem/19238)||||
 |[BOJ 11203 - Numberse On a Tree](https://www.acmicpc.net/problem/11203)||||
 |[BOJ 1068 - 트리](https://www.acmicpc.net/problem/1068)|✔|||
-|[BOJ 20364 - 부동산 다툼](https://www.acmicpc.net/problem/20364)|✔||✔|
+|[BOJ 20364 - 부동산 다툼](https://www.acmicpc.net/problem/20364)|✔|✔|✔|
 |[BOJ 11437 - LCA](https://www.acmicpc.net/problem/11437)||||
 |[BOJ 2250 - 트리의 높이와 너비](https://www.acmicpc.net/problem/2250)||||
