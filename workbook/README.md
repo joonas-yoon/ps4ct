@@ -29,3 +29,5 @@
 |[BOJ 17831 - 대기업 승범이네](https://www.acmicpc.net/problem/17831)||||
 |[BOJ 2593 - 엘리베이터](https://www.acmicpc.net/problem/2593)||||
 |[BOJ 1269 - 대칭 차집합](https://www.acmicpc.net/problem/1269)||✔||
+|[BOJ 18352 - 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)||||
+|[BOJ 10282 - 해킹](https://www.acmicpc.net/problem/10282)||||
