@@ -11,16 +11,20 @@ problem solving for coding test
 
 |#|날짜|문제|해결|
 |:--:|--|:--|--|
-|D-77|2021/03/17|*TBD*||
-|D-78|2021/03/17|*TBD*||
+|D-73|2021/03/31|[KAKAO BLIND 2021 - 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)||
+|D-74|2021/03/31|[KAKAO BLIND 2020 - 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)||
+|D-75|2021/03/24|[BOJ 1450 - 냅색문제](https://www.acmicpc.net/problem/1450)||
+|D-76|2021/03/24|[BOJ 4658 - 삼각형 게임](https://www.acmicpc.net/problem/4658)||
+|D-77|2021/03/17|[KAKAO BLIND 2020 - 자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)||
+|D-78|2021/03/17|[KAKAO BLIND 2021 - 합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)||
 |D-79|2021/03/10|[BOJ 17255 - N으로 만들기](https://www.acmicpc.net/problem/17255)||
 |D-80|2021/03/10|[BOJ 1933 - 스카이라인](https://www.acmicpc.net/problem/1933)||
 |D-81|2021/03/03|[2019 카카오 겨울 인턴십 - 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)||
 |D-82|2021/03/03|[프로그래머스 - N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)||
 |D-83|2021/02/24|[BOJ 10165 - 버스 노선](https://www.acmicpc.net/problem/10165)||
 |D-84|2021/02/24|[BOJ 8980 - 택배](https://www.acmicpc.net/problem/8980)||
-|D-85|2021/02/17|[KAKAO BLIND 2018 - 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)|<img class="avatar" height="20" alt="@jlogkim" src="https://avatars0.githubusercontent.com/u/74028313" width="20"> <img class="avatar" height="20" alt="@joonas" src="https://avatars0.githubusercontent.com/u/9527681" width="20">|
-|D-86|2021/02/17|[KAKAO BLIND 2018 - 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|<img class="avatar" height="20" alt="@jlogkim" src="https://avatars0.githubusercontent.com/u/74028313" width="20"> <img class="avatar" height="20" alt="@joonas" src="https://avatars0.githubusercontent.com/u/9527681" width="20">|
+|D-85|2021/02/18|[KAKAO BLIND 2018 - 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)|<img class="avatar" height="20" alt="@jlogkim" src="https://avatars0.githubusercontent.com/u/74028313" width="20"> <img class="avatar" height="20" alt="@joonas" src="https://avatars0.githubusercontent.com/u/9527681" width="20">|
+|D-86|2021/02/18|[KAKAO BLIND 2018 - 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|<img class="avatar" height="20" alt="@jlogkim" src="https://avatars0.githubusercontent.com/u/74028313" width="20"> <img class="avatar" height="20" alt="@joonas" src="https://avatars0.githubusercontent.com/u/9527681" width="20">|
 |D-87|2021/02/10|[BOJ 3197 - 백조의 호수](https://www.acmicpc.net/problem/3197)|<img class="avatar" height="20" alt="@jlogkim" src="https://avatars0.githubusercontent.com/u/74028313" width="20"> <img class="avatar" height="20" alt="@joonas" src="https://avatars0.githubusercontent.com/u/9527681" width="20">|
 |D-88|2021/02/10|[BOJ 1774 - 우주신과의 교감](https://www.acmicpc.net/problem/1774)|<img class="avatar" height="20" alt="@joonas" src="https://avatars0.githubusercontent.com/u/9527681" width="20"> <img class="avatar" height="20" alt="@jlogkim" src="https://avatars0.githubusercontent.com/u/74028313" width="20"> <img class="avatar" height="20" alt="@ddjddd" src="https://avatars0.githubusercontent.com/u/26399087" width="20">|
 |D-89|2021/02/03|[프로그래머스 - 124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)|<img class="avatar" height="20" alt="@jlogkim" src="https://avatars0.githubusercontent.com/u/74028313" width="20"> <img class="avatar" height="20" alt="@joonas" src="https://avatars0.githubusercontent.com/u/9527681" width="20"> <img class="avatar" height="20" alt="@ddjddd" src="https://avatars0.githubusercontent.com/u/26399087" width="20">|
