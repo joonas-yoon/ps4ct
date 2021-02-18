@@ -8,24 +8,12 @@ def note2arr(notes, l):
     for i in range(max(2 * l, ln)):
         o = notes[i % ln]
         if o == '#':
-            a[-1] += 1
+            a[-1] = a[-1].lower()
         else:
-            a.append(2 * (ord(o) - ord('A')))
+            a.append(o)
     if l != -1:
-        return a[:l]
-    return a
-
-# s: string, p: pattern
-def isMatched(s, p):
-    if len(p) > len(s): return False
-    for i in range(len(s)):
-        j = 0
-        while j < len(p) and i + j < len(s):
-            if s[i+j] != p[j]: break
-            j += 1
-        if j == len(p):
-            return True
-    return False
+        return "".join(a[:l])
+    return "".join(a)
 
 def solution(m, infos):
     p = note2arr(m, -1)
@@ -34,7 +22,7 @@ def solution(m, infos):
         start, end, name, notes = infos[i].split(',')
         _range = toMin(end) - toMin(start) + 1
         _notes = note2arr(notes, _range)
-        if isMatched(_notes, p):
+        if _notes.count(p) > 0:
             ans.append((-_range, i, name))
 
     if len(ans) == 0:
