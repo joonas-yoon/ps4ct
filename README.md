@@ -19,7 +19,7 @@ problem solving for coding test
 |D-78|2021/03/17|[KAKAO BLIND 2021 - 합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)||
 |D-79|2021/03/10|[BOJ 17255 - N으로 만들기](https://www.acmicpc.net/problem/17255)||
 |D-80|2021/03/10|[BOJ 1933 - 스카이라인](https://www.acmicpc.net/problem/1933)||
-|D-81|2021/03/03|[2019 카카오 겨울 인턴십 - 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)||
+|D-81|2021/03/03|[2019 카카오 겨울 인턴십 - 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|![joonas]|
 |D-82|2021/03/03|[프로그래머스 - N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)|![jlogkim] ![joonas]|
 |D-83|2021/02/24|[BOJ 10165 - 버스 노선](https://www.acmicpc.net/problem/10165)|![joonas] ![jlogkim] ![ddjddd]|
 |D-84|2021/02/24|[BOJ 8980 - 택배](https://www.acmicpc.net/problem/8980)|![joonas] ![ddjddd] ![jlogkim]|
