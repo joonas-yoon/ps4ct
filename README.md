@@ -14,7 +14,7 @@ problem solving for coding test
 |D-59|2021/05/19|[BOJ 2143 - 두 배열의 합](https://www.acmicpc.net/problem/2143)||
 |D-60|2021/05/19|[BOJ 2342 - Dance Dance Revolution](https://www.acmicpc.net/problem/2342)||
 |D-61|2021/05/12|[KAKAO BLIND 2020 - 기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)||
-|D-62|2021/05/12|[KAKAO BLIND 2021 - 합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)||
+|D-62|2021/05/12|[KAKAO BLIND 2020 - 가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)||
 |D-63|2021/05/05|[BOJ 16724 - 피리 부는 사나이](https://www.acmicpc.net/problem/16724)||
 |D-64|2021/05/05|[BOJ 1202 - 보석 도둑](https://www.acmicpc.net/problem/1202)||
 |D-65|2021/04/28|[월간 코드 챌린지 시즌1 - 문자열의 아름다움](https://programmers.co.kr/learn/courses/30/lessons/68938)||
