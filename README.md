@@ -11,6 +11,20 @@ problem solving for coding test
 
 |#|날짜|문제|해결|
 |:--:|--|:--|--|
+|D-59|2021/05/19|[BOJ 2143 - 두 배열의 합](https://www.acmicpc.net/problem/2143)||
+|D-60|2021/05/19|[BOJ 2342 - Dance Dance Revolution](https://www.acmicpc.net/problem/2342)||
+|D-61|2021/05/12|[KAKAO BLIND 2020 - 기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)||
+|D-62|2021/05/12|[KAKAO BLIND 2021 - 합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)||
+|D-63|2021/05/05|[BOJ 16724 - 피리 부는 사나이](https://www.acmicpc.net/problem/16724)||
+|D-64|2021/05/05|[BOJ 1202 - 보석 도둑](https://www.acmicpc.net/problem/1202)||
+|D-65|2021/04/28|[월간 코드 챌린지 시즌1 - 문자열의 아름다움](https://programmers.co.kr/learn/courses/30/lessons/68938)||
+|D-66|2021/04/28|[월간 코드 챌린지 시즌1 - 풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646)||
+|D-67|2021/04/21|[BOJ 2206 - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)||
+|D-68|2021/04/21|[BOJ 16926 - 벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)||
+|D-69|2021/04/14|[Summer/Winter Coding (2019) - 지형 이동](https://programmers.co.kr/learn/courses/30/lessons/62050)||
+|D-70|2021/04/14|[Summer/Winter Coding (2018) - 스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)||
+|D-71|2021/04/07|[BOJ 1865 - 웜홀](https://www.acmicpc.net/problem/1865)||
+|D-72|2021/04/07|[BOJ 14938 - 서강그라운드](https://www.acmicpc.net/problem/14938)||
 |D-73|2021/03/31|[KAKAO BLIND 2021 - 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)||
 |D-74|2021/03/31|[KAKAO BLIND 2020 - 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)||
 |D-75|2021/03/24|[BOJ 1450 - 냅색문제](https://www.acmicpc.net/problem/1450)||
