@@ -32,3 +32,5 @@
 |[BOJ 1269 - 대칭 차집합](https://www.acmicpc.net/problem/1269)||✔||
 |[BOJ 18352 - 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)|✔|||
 |[BOJ 10282 - 해킹](https://www.acmicpc.net/problem/10282)||||
+|[BOJ 16929 - Two dots](https://www.acmicpc.net/problem/16929)||||
+|[BOJ 9359 - 서로소](https://www.acmicpc.net/problem/9359)||||
