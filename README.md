@@ -29,8 +29,8 @@ problem solving for coding test
 |D-74|2021/03/31|[KAKAO BLIND 2020 - 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)||
 |D-75|2021/03/24|[BOJ 1450 - 냅색문제](https://www.acmicpc.net/problem/1450)||
 |D-76|2021/03/24|[BOJ 4658 - 삼각형 게임](https://www.acmicpc.net/problem/4658)||
-|D-77|2021/03/17|[KAKAO BLIND 2020 - 자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)|![joonas]|
-|D-78|2021/03/17|[KAKAO BLIND 2021 - 합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)|![joonas] ![jlogkim]|
+|D-77|2021/03/17|[KAKAO BLIND 2020 - 자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)|![joonas] ![ddjddd]|
+|D-78|2021/03/17|[KAKAO BLIND 2021 - 합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)|![joonas] ![jlogkim] ![ddjddd]|
 |D-79|2021/03/10|[BOJ 17255 - N으로 만들기](https://www.acmicpc.net/problem/17255)|![joonas] ![jlogkim] ![ddjddd]|
 |D-80|2021/03/10|[BOJ 1933 - 스카이라인](https://www.acmicpc.net/problem/1933)|![joonas] ![jlogkim] ![ddjddd]|
 |D-81|2021/03/03|[2019 카카오 겨울 인턴십 - 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|![joonas] ![jlogkim] ![ddjddd]|
