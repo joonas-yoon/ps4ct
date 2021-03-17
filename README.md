@@ -11,24 +11,34 @@ problem solving for coding test
 
 |#|날짜|문제|해결|
 |:--:|--|:--|--|
-|D-59|2021/05/19|[BOJ 2143 - 두 배열의 합](https://www.acmicpc.net/problem/2143)||
-|D-60|2021/05/19|[BOJ 2342 - Dance Dance Revolution](https://www.acmicpc.net/problem/2342)||
-|D-61|2021/05/12|[KAKAO BLIND 2020 - 기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)||
-|D-62|2021/05/12|[KAKAO BLIND 2020 - 가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)||
-|D-63|2021/05/05|[BOJ 16724 - 피리 부는 사나이](https://www.acmicpc.net/problem/16724)||
-|D-64|2021/05/05|[BOJ 1202 - 보석 도둑](https://www.acmicpc.net/problem/1202)||
-|D-65|2021/04/28|[월간 코드 챌린지 시즌1 - 문자열의 아름다움](https://programmers.co.kr/learn/courses/30/lessons/68938)||
-|D-66|2021/04/28|[월간 코드 챌린지 시즌1 - 풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646)||
-|D-67|2021/04/21|[BOJ 2206 - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)||
-|D-68|2021/04/21|[BOJ 16926 - 벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)||
-|D-69|2021/04/14|[Summer/Winter Coding (2019) - 지형 이동](https://programmers.co.kr/learn/courses/30/lessons/62050)||
-|D-70|2021/04/14|[Summer/Winter Coding (2018) - 스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)||
-|D-71|2021/04/07|[BOJ 1865 - 웜홀](https://www.acmicpc.net/problem/1865)||
-|D-72|2021/04/07|[BOJ 14938 - 서강그라운드](https://www.acmicpc.net/problem/14938)||
-|D-73|2021/03/31|[KAKAO BLIND 2021 - 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)||
-|D-74|2021/03/31|[KAKAO BLIND 2020 - 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)||
-|D-75|2021/03/24|[BOJ 1450 - 냅색문제](https://www.acmicpc.net/problem/1450)||
-|D-76|2021/03/24|[BOJ 4658 - 삼각형 게임](https://www.acmicpc.net/problem/4658)||
+|D-49|2021/06/23|[BOJ 2143 - 두 배열의 합](https://www.acmicpc.net/problem/2143)||
+|D-50|2021/06/23|[BOJ 2342 - Dance Dance Revolution](https://www.acmicpc.net/problem/2342)||
+|D-51|2021/06/16|[LeetCode 295 - Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)||
+|D-52|2021/06/16|[LeetCode 79 - Word Search](https://leetcode.com/problems/word-search/)||
+|D-53|2021/06/09|[KAKAO BLIND 2020 - 기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)||
+|D-54|2021/06/09|[KAKAO BLIND 2020 - 가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)||
+|D-55|2021/06/02|[BOJ 16724 - 피리 부는 사나이](https://www.acmicpc.net/problem/16724)||
+|D-56|2021/06/02|[BOJ 1202 - 보석 도둑](https://www.acmicpc.net/problem/1202)||
+|D-57|2021/05/26|[LeetCode 23 - Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)||
+|D-58|2021/05/26|[LeetCode 143 - Reorder List](https://leetcode.com/problems/reorder-list/)||
+|D-59|2021/05/19|[월간 코드 챌린지 시즌1 - 문자열의 아름다움](https://programmers.co.kr/learn/courses/30/lessons/68938)||
+|D-60|2021/05/19|[월간 코드 챌린지 시즌1 - 풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646)||
+|D-61|2021/05/12|[BOJ 2206 - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)||
+|D-62|2021/05/12|[BOJ 16926 - 벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)||
+|D-63|2021/05/05|[LeetCode 91 - Decode Ways](https://leetcode.com/problems/decode-ways/)||
+|D-64|2021/05/05|[LeetCode 139 - Word Break](https://leetcode.com/problems/word-break/)||
+|D-65|2021/04/28|[Summer/Winter Coding (2019) - 지형 이동](https://programmers.co.kr/learn/courses/30/lessons/62050)||
+|D-66|2021/04/28|[Summer/Winter Coding (2018) - 스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)||
+|D-67|2021/04/21|[BOJ 1865 - 웜홀](https://www.acmicpc.net/problem/1865)||
+|D-68|2021/04/21|[BOJ 14938 - 서강그라운드](https://www.acmicpc.net/problem/14938)||
+|D-69|2021/04/14|[LeetCode 108 - Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)||
+|D-70|2021/04/14|[LeetCode 152 - Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)||
+|D-71|2021/04/07|[KAKAO BLIND 2021 - 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)||
+|D-72|2021/04/07|[KAKAO BLIND 2020 - 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)||
+|D-73|2021/03/31|[BOJ 1450 - 냅색문제](https://www.acmicpc.net/problem/1450)||
+|D-74|2021/03/31|[BOJ 4658 - 삼각형 게임](https://www.acmicpc.net/problem/4658)||
+|D-75|2021/03/24|[LeetCode 48 - Rotate Image](https://leetcode.com/problems/rotate-image/)||
+|D-76|2021/03/24|[LeetCode 101 - Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)||
 |D-77|2021/03/17|[KAKAO BLIND 2020 - 자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)|![joonas] ![jlogkim] ![ddjddd]|
 |D-78|2021/03/17|[KAKAO BLIND 2021 - 합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)|![joonas] ![jlogkim] ![ddjddd]|
 |D-79|2021/03/10|[BOJ 17255 - N으로 만들기](https://www.acmicpc.net/problem/17255)|![joonas] ![jlogkim] ![ddjddd]|
