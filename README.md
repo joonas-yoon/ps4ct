@@ -37,8 +37,8 @@ problem solving for coding test
 |D-72|2021/04/07|[KAKAO BLIND 2020 - 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)||
 |D-73|2021/03/31|[BOJ 1450 - 냅색문제](https://www.acmicpc.net/problem/1450)||
 |D-74|2021/03/31|[BOJ 4658 - 삼각형 게임](https://www.acmicpc.net/problem/4658)||
-|D-75|2021/03/24|[LeetCode 48 - Rotate Image](https://leetcode.com/problems/rotate-image/)|![joonas] ![ddjddd]|
-|D-76|2021/03/24|[LeetCode 101 - Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|![joonas] ![ddjddd]|
+|D-75|2021/03/24|[LeetCode 48 - Rotate Image](https://leetcode.com/problems/rotate-image/)|![joonas] ![ddjddd] ![jlogkim]|
+|D-76|2021/03/24|[LeetCode 101 - Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|![joonas] ![ddjddd] ![jlogkim]|
 |D-77|2021/03/17|[KAKAO BLIND 2020 - 자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)|![joonas] ![jlogkim] ![ddjddd]|
 |D-78|2021/03/17|[KAKAO BLIND 2021 - 합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)|![joonas] ![jlogkim] ![ddjddd]|
 |D-79|2021/03/10|[BOJ 17255 - N으로 만들기](https://www.acmicpc.net/problem/17255)|![joonas] ![jlogkim] ![ddjddd]|
