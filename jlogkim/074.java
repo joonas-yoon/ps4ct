@@ -12,19 +12,20 @@ public class Main {
 	
 	public static int minTri(int st,int ed) {
 		int sol=-1;
+		int subsol=-1;
+		
 		if(usednumb==5) {
 			for(int i=0;i<6;i++) {
 				if(used[i]==false) {
 					for(int j=0;j<3;j++) {
 						if(tri[i][j]==st&&tri[i][(j+1)%3]==ed) {
-							sol=Math.max(sol, tri[i][(j+2)%3]); //간소화 가능
+							return tri[i][(j+2)%3]; //간소화 가능
 						}
 					}
 				}
 			}
-			return sol;
 		}
-		int subsol=-1;
+
 		for(int i=0;i<6;i++) {
 			if(used[i]==false) {
 				for(int j=0;j<3;j++) {
