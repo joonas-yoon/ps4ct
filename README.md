@@ -35,7 +35,7 @@ problem solving for coding test
 |D-70|2021/04/21|[LeetCode 152 - Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)||
 |D-71|2021/04/14|[KAKAO BLIND 2021 - 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)||
 |D-72|2021/04/14|[KAKAO BLIND 2020 - 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)||
-|D-73|2021/04/07|[BOJ 1450 - 냅색문제](https://www.acmicpc.net/problem/1450)|![jlogkim] ![joonas]|
+|D-73|2021/04/07|[BOJ 1450 - 냅색문제](https://www.acmicpc.net/problem/1450)|![jlogkim] ![joonas] ![ddjddd]|
 |D-74|2021/04/07|[BOJ 4658 - 삼각형 게임](https://www.acmicpc.net/problem/4658)|![jlogkim] ![joonas] ![ddjddd]|
 |D-75|2021/03/31|[LeetCode 48 - Rotate Image](https://leetcode.com/problems/rotate-image/)|![joonas] ![ddjddd] ![jlogkim]|
 |D-76|2021/03/31|[LeetCode 101 - Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|![joonas] ![ddjddd] ![jlogkim]|
