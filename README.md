@@ -31,8 +31,8 @@ problem solving for coding test
 |D-66|2021/05/05|[Summer/Winter Coding (2018) - 스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)||
 |D-67|2021/04/28|[BOJ 1865 - 웜홀](https://www.acmicpc.net/problem/1865)||
 |D-68|2021/04/28|[BOJ 14938 - 서강그라운드](https://www.acmicpc.net/problem/14938)||
-|D-69|2021/04/21|[LeetCode 108 - Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|![joonas] ![jlogkim]|
-|D-70|2021/04/21|[LeetCode 152 - Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|![joonas] ![jlogkim]|
+|D-69|2021/04/21|[LeetCode 108 - Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|![joonas] ![jlogkim] ![ddjddd]|
+|D-70|2021/04/21|[LeetCode 152 - Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|![joonas] ![jlogkim] ![ddjddd]|
 |D-71|2021/04/14|[KAKAO BLIND 2021 - 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|![ddjddd] ![joonas] ![jlogkim]|
 |D-72|2021/04/14|[KAKAO BLIND 2020 - 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|![joonas] ![ddjddd] ![jlogkim]|
 |D-73|2021/04/07|[BOJ 1450 - 냅색문제](https://www.acmicpc.net/problem/1450)|![jlogkim] ![joonas] ![ddjddd]|
