@@ -52,7 +52,8 @@ class Solution {
     		for(String key: map.keySet()) {
     			value=map.get(key);
     			if(value>max)max=value;
-    		}
+            }
+            
     		if(max>=2) {
 	    		for(String key: map.keySet()) {
 	    			if(map.get(key)==max) {
