@@ -29,8 +29,8 @@ problem solving for coding test
 |D-64|2021/05/12|[LeetCode 139 - Word Break](https://leetcode.com/problems/word-break/)||
 |D-65|2021/05/05|[Summer/Winter Coding (2019) - 지형 이동](https://programmers.co.kr/learn/courses/30/lessons/62050)||
 |D-66|2021/05/05|[Summer/Winter Coding (2018) - 스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)||
-|D-67|2021/04/28|[BOJ 1865 - 웜홀](https://www.acmicpc.net/problem/1865)|![ddjddd] ![jlogkim]|
-|D-68|2021/04/28|[BOJ 14938 - 서강그라운드](https://www.acmicpc.net/problem/14938)|![ddjddd] ![jlogkim]|
+|D-67|2021/04/28|[BOJ 1865 - 웜홀](https://www.acmicpc.net/problem/1865)|![ddjddd] ![jlogkim] ![joonas]|
+|D-68|2021/04/28|[BOJ 14938 - 서강그라운드](https://www.acmicpc.net/problem/14938)|![ddjddd] ![jlogkim] ![joonas]|
 |D-69|2021/04/21|[LeetCode 108 - Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|![joonas] ![jlogkim] ![ddjddd]|
 |D-70|2021/04/21|[LeetCode 152 - Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|![joonas] ![jlogkim] ![ddjddd]|
 |D-71|2021/04/14|[KAKAO BLIND 2021 - 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|![ddjddd] ![joonas] ![jlogkim]|
