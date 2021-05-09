@@ -27,8 +27,8 @@ problem solving for coding test
 |D-62|2021/05/19|[BOJ 16926 - 벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)||
 |D-63|2021/05/12|[LeetCode 91 - Decode Ways](https://leetcode.com/problems/decode-ways/)||
 |D-64|2021/05/12|[LeetCode 139 - Word Break](https://leetcode.com/problems/word-break/)||
-|D-65|2021/05/05|[Summer/Winter Coding (2019) - 지형 이동](https://programmers.co.kr/learn/courses/30/lessons/62050)|![ddjddd] |
-|D-66|2021/05/05|[Summer/Winter Coding (2018) - 스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)|![ddjddd] |
+|D-65|2021/05/05|[Summer/Winter Coding (2019) - 지형 이동](https://programmers.co.kr/learn/courses/30/lessons/62050)|![ddjddd] ![jlogkim]|
+|D-66|2021/05/05|[Summer/Winter Coding (2018) - 스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)|![ddjddd] ![jlogkim]|
 |D-67|2021/04/28|[BOJ 1865 - 웜홀](https://www.acmicpc.net/problem/1865)|![ddjddd] ![jlogkim] ![joonas]|
 |D-68|2021/04/28|[BOJ 14938 - 서강그라운드](https://www.acmicpc.net/problem/14938)|![ddjddd] ![jlogkim] ![joonas]|
 |D-69|2021/04/21|[LeetCode 108 - Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|![joonas] ![jlogkim] ![ddjddd]|
