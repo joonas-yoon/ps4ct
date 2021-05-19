@@ -23,7 +23,7 @@ problem solving for coding test
 |D-58|2021/06/02|[LeetCode 143 - Reorder List](https://leetcode.com/problems/reorder-list/)||
 |D-59|2021/05/26|[월간 코드 챌린지 시즌1 - 문자열의 아름다움](https://programmers.co.kr/learn/courses/30/lessons/68938)||
 |D-60|2021/05/26|[월간 코드 챌린지 시즌1 - 풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646)||
-|D-61|2021/05/19|[BOJ 2206 - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|![ddjddd]|
+|D-61|2021/05/19|[BOJ 2206 - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|![ddjddd] ![joonas]|
 |D-62|2021/05/19|[BOJ 16926 - 벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)|![ddjddd]|
 |D-63|2021/05/12|[LeetCode 91 - Decode Ways](https://leetcode.com/problems/decode-ways/)|![jlogkim] ![joonas] ![ddjddd]|
 |D-64|2021/05/12|[LeetCode 139 - Word Break](https://leetcode.com/problems/word-break/)|![jlogkim] ![joonas] ![ddjddd]|
