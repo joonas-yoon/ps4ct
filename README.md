@@ -13,6 +13,9 @@ problem solving for coding test
 
 |#|날짜|문제|![ddjddd]|![joonas]|![jlogkim]|
 |:--:|--|:--|:--:|:--:|:--:|
+|D-48|2021/07/06|[C - 풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646)||||
+|D-49|2021/07/06|[B - 문자열의 아름다움](https://programmers.co.kr/learn/courses/30/lessons/68938)||||
+|D-50|2021/07/06|[A - 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)||||
 |D-51|2021/07/01|[C - 4와 7](https://www.acmicpc.net/problem/2877)|🎈 01:00|🎈 00:42|🎈 00:54|
 |D-52|2021/07/01|[B - 그래픽스 퀴즈](https://www.acmicpc.net/problem/2876)|🎈 01:18|🎈 00:24|🎈 00:23|
 |D-53|2021/07/01|[A - 대회 or 인턴](https://www.acmicpc.net/problem/2875)|🎈 00:56|🎈 00:08|🎈 00:10|
