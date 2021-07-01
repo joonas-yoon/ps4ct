@@ -11,6 +11,8 @@ problem solving for coding test
 
 ### Season 2
 
+<p>2021/05/23 ~</p>
+
 |#|날짜|문제|![ddjddd]|![joonas]|![jlogkim]|
 |:--:|--|:--|:--:|:--:|:--:|
 |D-48|2021/07/06|[C - 풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646)||||
@@ -28,6 +30,10 @@ problem solving for coding test
 |D-60|2021/05/23|[A - Cow Yahtzee](https://www.acmicpc.net/problem/6228)|🎈||🎈|
 
 ### Season 1
+
+<details><summary>자세히 보기</summary>
+
+<p>2020/12/30 ~ 2021/05/19</p>
 
 |#|날짜|문제|해결|
 |:--:|--|:--|--|
@@ -71,6 +77,8 @@ problem solving for coding test
 |D-98|2021/01/06|[BOJ 5052 - 전화번호 목록](https://www.acmicpc.net/problem/5052)|![joonas] ![ddjddd] ![jlogkim]|
 |D-99|2020/12/30|[KAKAO BLIND 2020 - 문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|![joonas] ![jlogkim] ![ddjddd]|
 |D-100|2020/12/30|[프로그래머스 - 삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)|![joonas] ![jlogkim] ![ddjddd]|
+
+</details>
 
 ## People
 
