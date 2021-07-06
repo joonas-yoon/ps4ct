@@ -21,13 +21,13 @@ problem solving for coding test
 |D-51|2021/07/01|[C - 4와 7](https://www.acmicpc.net/problem/2877)|🎈 01:00|🎈 00:42|🎈 00:54|
 |D-52|2021/07/01|[B - 그래픽스 퀴즈](https://www.acmicpc.net/problem/2876)|🎈 01:18|🎈 00:24|🎈 00:23|
 |D-53|2021/07/01|[A - 대회 or 인턴](https://www.acmicpc.net/problem/2875)|🎈 00:56|🎈 00:08|🎈 00:10|
-|D-54|2021/06/12|[D - 행성 터널](https://www.acmicpc.net/problem/2887)|||🎈|
-|D-55|2021/06/12|[C - 자리 전쟁](https://www.acmicpc.net/problem/2886)|||🎈|
-|D-56|2021/06/12|[B - 초콜릿 식사](https://www.acmicpc.net/problem/2885)|🎈||🎈|
-|D-57|2021/06/12|[A - 알람 시계](https://www.acmicpc.net/problem/2884)|🎈||🎈|
-|D-58|2021/05/23|[C - Buy One Get One Free](https://www.acmicpc.net/problem/6230)|🎈|🎈||
+|D-54|2021/06/12|[D - 행성 터널](https://www.acmicpc.net/problem/2887)|||✔|
+|D-55|2021/06/12|[C - 자리 전쟁](https://www.acmicpc.net/problem/2886)|||✔|
+|D-56|2021/06/12|[B - 초콜릿 식사](https://www.acmicpc.net/problem/2885)|✔||✔|
+|D-57|2021/06/12|[A - 알람 시계](https://www.acmicpc.net/problem/2884)|✔||✔|
+|D-58|2021/05/23|[C - Buy One Get One Free](https://www.acmicpc.net/problem/6230)|🎈|🎈|⏱|
 |D-59|2021/05/23|[B - Bronze Lilypad Pond](https://www.acmicpc.net/problem/6229)|🎈|🎈|🎈|
-|D-60|2021/05/23|[A - Cow Yahtzee](https://www.acmicpc.net/problem/6228)|🎈||🎈|
+|D-60|2021/05/23|[A - Cow Yahtzee](https://www.acmicpc.net/problem/6228)|🎈|⏱|🎈|
 
 ### Season 1
 
