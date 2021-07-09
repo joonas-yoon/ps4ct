@@ -21,8 +21,8 @@ problem solving for coding test
 |D-42|2021/07/20|[C - Word Search](https://leetcode.com/problems/word-search/)||||
 |D-43|2021/07/20|[B - Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)||||
 |D-44|2021/07/20|[A - Reorder List](https://leetcode.com/problems/reorder-list/)||||
-|D-45|2021/07/13|[C - 순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)||||
-|D-46|2021/07/13|[B - 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)||||
+|D-45|2021/07/13|[C - 광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)||||
+|D-46|2021/07/13|[B - 순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)||||
 |D-47|2021/07/13|[A - 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)||||
 |D-48|2021/07/06|[C - 풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646)|🎈 00:46|🎈 01:06|🎈 00:47|
 |D-49|2021/07/06|[B - 문자열의 아름다움](https://programmers.co.kr/learn/courses/30/lessons/68938)||⏱||
