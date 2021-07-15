@@ -18,14 +18,14 @@ problem solving for coding test
 |D-39|2021/07/27|[C - 두 배열의 합](https://www.acmicpc.net/problem/2143)||||
 |D-40|2021/07/27|[B - (중략)](https://www.acmicpc.net/problem/21966)||||
 |D-41|2021/07/27|[A - 주유소](https://www.acmicpc.net/problem/13305)||||
-|D-42|2021/07/20|[C - Word Search](https://leetcode.com/problems/word-search/)||||
-|D-43|2021/07/20|[B - Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)||||
-|D-44|2021/07/20|[A - Reorder List](https://leetcode.com/problems/reorder-list/)||||
-|D-45|2021/07/13|[C - 광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)|⏱ (02:30)|⏱||
+|D-42|2021/07/20|[C - Word Search](https://leetcode.com/problems/word-search/)||⏱||
+|D-43|2021/07/20|[B - Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)||🎈 00:21||
+|D-44|2021/07/20|[A - Reorder List](https://leetcode.com/problems/reorder-list/)||🎈 00:11||
+|D-45|2021/07/13|[C - 광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)|⏱ 02:30|⏱ ✔||
 |D-46|2021/07/13|[B - 순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|🎈 01:06|🎈 01:17|🎈 01:24|
 |D-47|2021/07/13|[A - 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|🎈 00:18|🎈 00:14|🎈 00:25|
 |D-48|2021/07/06|[C - 풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646)|🎈 00:46|🎈 01:06|🎈 00:47|
-|D-49|2021/07/06|[B - 문자열의 아름다움](https://programmers.co.kr/learn/courses/30/lessons/68938)||⏱||
+|D-49|2021/07/06|[B - 문자열의 아름다움](https://programmers.co.kr/learn/courses/30/lessons/68938)||⏱ ❌||
 |D-50|2021/07/06|[A - 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|🎈 00:15|🎈 00:17|🎈 00:30|
 |D-51|2021/07/01|[C - 4와 7](https://www.acmicpc.net/problem/2877)|🎈 01:00|🎈 00:42|🎈 00:54|
 |D-52|2021/07/01|[B - 그래픽스 퀴즈](https://www.acmicpc.net/problem/2876)|🎈 01:18|🎈 00:24|🎈 00:23|
