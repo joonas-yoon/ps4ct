@@ -1,0 +1,1 @@
+print(format(int(input())+1,'b')[1:].replace('0','4').replace('1','7'))
