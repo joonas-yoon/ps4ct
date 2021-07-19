@@ -1,8 +1,6 @@
 # ps4ct
 problem solving for coding test
 
-![every wednesday](https://img.shields.io/badge/every-wednesday-green) ![penalty](https://img.shields.io/badge/penalty-$%2010-red)
-
 ## Workbook
 
 [연습문제 모음](./workbook/)
@@ -13,8 +11,19 @@ problem solving for coding test
 
 <p>2021/05/23 ~</p>
 
+![every tuesday](https://img.shields.io/badge/every-tuesday-green) ![study](https://img.shields.io/badge/study-autodidacticism-red)
+
 |#|날짜|문제|![ddjddd]|![joonas]|![jlogkim]|
 |:--:|--|:--|:--:|:--:|:--:|
+|D-30|2021/08/17|[C - 최소비용 구하기](https://www.acmicpc.net/problem/1916)||||
+|D-31|2021/08/17|[B - 떡국](https://www.acmicpc.net/problem/20937)||||
+|D-32|2021/08/17|[A - 팰린드롬 척화비](https://www.acmicpc.net/problem/20944)||||
+|D-33|2021/08/10|[C - Interleaving String](https://leetcode.com/problems/interleaving-string/)||||
+|D-34|2021/08/10|[B - Exchange Seats](https://leetcode.com/problems/exchange-seats/)||||
+|D-35|2021/08/10|[A - Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)||||
+|D-36|2021/08/03|[C - 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)||||
+|D-37|2021/08/03|[B - 숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)||||
+|D-38|2021/08/03|[A - 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)||||
 |D-39|2021/07/27|[C - 두 배열의 합](https://www.acmicpc.net/problem/2143)||||
 |D-40|2021/07/27|[B - (중략)](https://www.acmicpc.net/problem/21966)||||
 |D-41|2021/07/27|[A - 주유소](https://www.acmicpc.net/problem/13305)||||
@@ -43,6 +52,8 @@ problem solving for coding test
 <details><summary>자세히 보기</summary>
 
 <p>2020/12/30 ~ 2021/05/19</p>
+
+![every wednesday](https://img.shields.io/badge/every-wednesday-green) ![penalty](https://img.shields.io/badge/penalty-$%2010-red)
 
 |#|날짜|문제|해결|
 |:--:|--|:--|--|
