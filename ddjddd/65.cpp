@@ -33,9 +33,9 @@ int solution(vector<vector<int>> land, int height) {
                 int nx = cx + dx[dir];
                 int ny = cy + dy[dir];
                 if (nx >= 0 && nx < len && ny >= 0 && ny < len) {
-                    int tmp = visit[nx][ny];
+                    int tmp = visit[nx][ny]; //color or visit 
                     int tmpN = abs(land[nx][ny] - land[cx][cy]);
-                    if (tmp >= 0) {
+                    if (tmp >= 0) { //not visitd
                         if (tmpN <= height) {
                             visit[nx][ny] = color;
                             q.push({ nx, ny });
