@@ -1,29 +1,63 @@
 # ps4ct
 problem solving for coding test
 
-![every wednesday](https://img.shields.io/badge/every-wednesday-green) ![penalty](https://img.shields.io/badge/penalty-$%2010-red)
-
 ## Workbook
 
 [연습문제 모음](./workbook/)
 
 ## Problems
 
+### Season 2
+
+<p>2021/05/23 ~</p>
+
+![every tuesday](https://img.shields.io/badge/every-tuesday-green) ![study](https://img.shields.io/badge/study-autodidacticism-red)
+
+|#|날짜|문제|![ddjddd]|![joonas]|![jlogkim]|
+|:--:|--|:--|:--:|:--:|:--:|
+|D-30|2021/08/17|[C - 최소비용 구하기](https://www.acmicpc.net/problem/1916)||||
+|D-31|2021/08/17|[B - 떡국](https://www.acmicpc.net/problem/20937)||||
+|D-32|2021/08/17|[A - 팰린드롬 척화비](https://www.acmicpc.net/problem/20944)||||
+|D-33|2021/08/10|[C - Interleaving String](https://leetcode.com/problems/interleaving-string/)||||
+|D-34|2021/08/10|[B - Exchange Seats](https://leetcode.com/problems/exchange-seats/)||||
+|D-35|2021/08/10|[A - Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)||||
+|D-36|2021/08/03|[C - 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)||||
+|D-37|2021/08/03|[B - 숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)||||
+|D-38|2021/08/03|[A - 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)||||
+|D-39|2021/07/27|[C - 두 배열의 합](https://www.acmicpc.net/problem/2143)||||
+|D-40|2021/07/27|[B - (중략)](https://www.acmicpc.net/problem/21966)||||
+|D-41|2021/07/27|[A - 주유소](https://www.acmicpc.net/problem/13305)||||
+|D-42|2021/07/20|[C - Word Search](https://leetcode.com/problems/word-search/)|🎈 01:08|⏱ ✔||
+|D-43|2021/07/20|[B - Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|🎈 00:45|🎈 00:21|🎈 00:30|
+|D-44|2021/07/20|[A - Reorder List](https://leetcode.com/problems/reorder-list/)|🎈 00:22|🎈 00:11|🎈 00:40|
+|D-45|2021/07/13|[C - 광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)|⏱ 02:30|⏱ ✔|❌|
+|D-46|2021/07/13|[B - 순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|🎈 01:06|🎈 01:17|🎈 01:24|
+|D-47|2021/07/13|[A - 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|🎈 00:18|🎈 00:14|🎈 00:25|
+|D-48|2021/07/06|[C - 풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646)|🎈 00:46|🎈 01:06|🎈 00:47|
+|D-49|2021/07/06|[B - 문자열의 아름다움](https://programmers.co.kr/learn/courses/30/lessons/68938)||⏱ ❌|❌|
+|D-50|2021/07/06|[A - 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|🎈 00:15|🎈 00:17|🎈 00:30|
+|D-51|2021/07/01|[C - 4와 7](https://www.acmicpc.net/problem/2877)|🎈 01:00|🎈 00:42|🎈 00:54|
+|D-52|2021/07/01|[B - 그래픽스 퀴즈](https://www.acmicpc.net/problem/2876)|🎈 01:18|🎈 00:24|🎈 00:23|
+|D-53|2021/07/01|[A - 대회 or 인턴](https://www.acmicpc.net/problem/2875)|🎈 00:56|🎈 00:08|🎈 00:10|
+|D-54|2021/06/12|[D - 행성 터널](https://www.acmicpc.net/problem/2887)||✔|✔|
+|D-55|2021/06/12|[C - 자리 전쟁](https://www.acmicpc.net/problem/2886)|||✔|
+|D-56|2021/06/12|[B - 초콜릿 식사](https://www.acmicpc.net/problem/2885)|✔|✔|✔|
+|D-57|2021/06/12|[A - 알람 시계](https://www.acmicpc.net/problem/2884)|✔|✔|✔|
+|D-58|2021/05/23|[C - Buy One Get One Free](https://www.acmicpc.net/problem/6230)|🎈|🎈|⏱|
+|D-59|2021/05/23|[B - Bronze Lilypad Pond](https://www.acmicpc.net/problem/6229)|🎈|🎈|🎈|
+|D-60|2021/05/23|[A - Cow Yahtzee](https://www.acmicpc.net/problem/6228)|🎈|⏱|🎈|
+
+### Season 1
+
+<details><summary>자세히 보기</summary>
+
+<p>2020/12/30 ~ 2021/05/19</p>
+
+![every wednesday](https://img.shields.io/badge/every-wednesday-green) ![penalty](https://img.shields.io/badge/penalty-$%2010-red)
+
 |#|날짜|문제|해결|
 |:--:|--|:--|--|
-|D-49|2021/06/30|[BOJ 2143 - 두 배열의 합](https://www.acmicpc.net/problem/2143)||
-|D-50|2021/06/30|[BOJ 2342 - Dance Dance Revolution](https://www.acmicpc.net/problem/2342)||
-|D-51|2021/06/23|[LeetCode 295 - Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)||
-|D-52|2021/06/23|[LeetCode 79 - Word Search](https://leetcode.com/problems/word-search/)||
-|D-53|2021/06/16|[KAKAO BLIND 2020 - 기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)||
-|D-54|2021/06/16|[KAKAO BLIND 2020 - 가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)||
-|D-55|2021/06/09|[BOJ 16724 - 피리 부는 사나이](https://www.acmicpc.net/problem/16724)||
-|D-56|2021/06/09|[BOJ 1202 - 보석 도둑](https://www.acmicpc.net/problem/1202)||
-|D-57|2021/06/02|[LeetCode 23 - Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)||
-|D-58|2021/06/02|[LeetCode 143 - Reorder List](https://leetcode.com/problems/reorder-list/)||
-|D-59|2021/05/26|[월간 코드 챌린지 시즌1 - 문자열의 아름다움](https://programmers.co.kr/learn/courses/30/lessons/68938)||
-|D-60|2021/05/26|[월간 코드 챌린지 시즌1 - 풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646)||
-|D-61|2021/05/19|[BOJ 2206 - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|![ddjddd] ![joonas]|
+|D-61|2021/05/19|[BOJ 2206 - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|![ddjddd] ![joonas] ![jlogkim] |
 |D-62|2021/05/19|[BOJ 16926 - 벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)|![ddjddd] ![joonas]|
 |D-63|2021/05/12|[LeetCode 91 - Decode Ways](https://leetcode.com/problems/decode-ways/)|![jlogkim] ![joonas] ![ddjddd]|
 |D-64|2021/05/12|[LeetCode 139 - Word Break](https://leetcode.com/problems/word-break/)|![jlogkim] ![joonas] ![ddjddd]|
@@ -63,6 +97,8 @@ problem solving for coding test
 |D-98|2021/01/06|[BOJ 5052 - 전화번호 목록](https://www.acmicpc.net/problem/5052)|![joonas] ![ddjddd] ![jlogkim]|
 |D-99|2020/12/30|[KAKAO BLIND 2020 - 문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|![joonas] ![jlogkim] ![ddjddd]|
 |D-100|2020/12/30|[프로그래머스 - 삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)|![joonas] ![jlogkim] ![ddjddd]|
+
+</details>
 
 ## People
 
