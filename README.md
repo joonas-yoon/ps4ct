@@ -24,9 +24,9 @@ problem solving for coding test
 |D-36|2021/08/03|[C - 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)||||
 |D-37|2021/08/03|[B - 숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)||||
 |D-38|2021/08/03|[A - 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)||||
-|D-39|2021/07/27|[C - 두 배열의 합](https://www.acmicpc.net/problem/2143)||🎈 01:22||
-|D-40|2021/07/27|[B - (중략)](https://www.acmicpc.net/problem/21966)||🎈 01:11||
-|D-41|2021/07/27|[A - 주유소](https://www.acmicpc.net/problem/13305)||🎈 00:53||
+|D-39|2021/07/27|[C - 두 배열의 합](https://www.acmicpc.net/problem/2143)||🎈 01:22|🎈 00:40|
+|D-40|2021/07/27|[B - (중략)](https://www.acmicpc.net/problem/21966)||🎈 01:11|🎈 00:23|
+|D-41|2021/07/27|[A - 주유소](https://www.acmicpc.net/problem/13305)||🎈 00:53|🎈 00:17|
 |D-42|2021/07/20|[C - Word Search](https://leetcode.com/problems/word-search/)|🎈 01:08|⏱ ✔|⏱ ✔|
 |D-43|2021/07/20|[B - Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|🎈 00:45|🎈 00:21|🎈 00:30|
 |D-44|2021/07/20|[A - Reorder List](https://leetcode.com/problems/reorder-list/)|🎈 00:22|🎈 00:11|🎈 00:40|
