@@ -21,9 +21,9 @@ problem solving for coding test
 |D-33|2021/08/10|[C - Interleaving String](https://leetcode.com/problems/interleaving-string/)||||
 |D-34|2021/08/10|[B - Exchange Seats](https://leetcode.com/problems/exchange-seats/)||||
 |D-35|2021/08/10|[A - Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)||||
-|D-36|2021/08/03|[C - 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)||🎈 00:17|🎈 00:12|
-|D-37|2021/08/03|[B - 숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)||🎈 00:09|🎈 00:12|
-|D-38|2021/08/03|[A - 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)||🎈 00:25|🎈 00:05|
+|D-36|2021/08/03|[C - 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|🎈 00:47|🎈 00:17|🎈 00:12|
+|D-37|2021/08/03|[B - 숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|🎈 00:33|🎈 00:09|🎈 00:12|
+|D-38|2021/08/03|[A - 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|🎈 00:28|🎈 00:25|🎈 00:05|
 |D-39|2021/07/27|[C - 두 배열의 합](https://www.acmicpc.net/problem/2143)|🎈 00:37|🎈 01:22|🎈 00:40|
 |D-40|2021/07/27|[B - (중략)](https://www.acmicpc.net/problem/21966)|🎈 00:22|🎈 01:11|🎈 00:23|
 |D-41|2021/07/27|[A - 주유소](https://www.acmicpc.net/problem/13305)|🎈 00:17|🎈 00:53|🎈 00:17|
