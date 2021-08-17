@@ -18,8 +18,8 @@ problem solving for coding test
 |D-31|2021/08/17|[C - 최소비용 구하기](https://www.acmicpc.net/problem/1916)||||
 |D-32|2021/08/17|[B - 떡국](https://www.acmicpc.net/problem/20937)||||
 |D-33|2021/08/17|[A - 팰린드롬 척화비](https://www.acmicpc.net/problem/20944)||||
-|D-34|2021/08/10|[B - Interleaving String](https://leetcode.com/problems/interleaving-string/)||🎈 00:25||
-|D-35|2021/08/10|[A - Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)||🎈 00:15||
+|D-34|2021/08/10|[B - Interleaving String](https://leetcode.com/problems/interleaving-string/)||🎈 00:25|🎈 ??|
+|D-35|2021/08/10|[A - Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)||🎈 00:15|🎈 00:11|
 |D-36|2021/08/03|[C - 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|🎈 00:47|🎈 00:17|🎈 00:12|
 |D-37|2021/08/03|[B - 숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|🎈 00:33|🎈 00:09|🎈 00:12|
 |D-38|2021/08/03|[A - 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|🎈 00:28|🎈 00:25|🎈 00:05|
