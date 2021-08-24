@@ -11,15 +11,36 @@ problem solving for coding test
 
 <p>2021/05/23 ~</p>
 
-![every tuesday](https://img.shields.io/badge/every-tuesday-green) ![study](https://img.shields.io/badge/study-autodidacticism-red)
+![every tuesday](https://img.shields.io/badge/every-tuesday-green) ![study](https://img.shields.io/badge/study-autodidacticism-red) ![time](https://img.shields.io/badge/time%20limit-90%20mins-purple)
 
 |#|날짜|문제|![ddjddd]|![joonas]|![jlogkim]|
 |:--:|--|:--|:--:|:--:|:--:|
-|D-31|2021/08/17|[C - 최소비용 구하기](https://www.acmicpc.net/problem/1916)||||
-|D-32|2021/08/17|[B - 떡국](https://www.acmicpc.net/problem/20937)||||
-|D-33|2021/08/17|[A - 팰린드롬 척화비](https://www.acmicpc.net/problem/20944)||||
-|D-34|2021/08/10|[B - Interleaving String](https://leetcode.com/problems/interleaving-string/)||🎈 00:25|🎈 ??|
-|D-35|2021/08/10|[A - Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)||🎈 00:15|🎈 00:11|
+|D-10|2021/10/19|[C - 흰색으로 만들기](https://www.acmicpc.net/problem/17302)||||
+|D-11|2021/10/19|[B - 옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)||||
+|D-12|2021/10/19|[A - 넷이 놀기](https://www.acmicpc.net/problem/2121)||||
+|D-13|2021/10/12|[C - Largest Number](https://leetcode.com/problems/largest-number)||||
+|D-14|2021/10/12|[B - Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)||||
+|D-15|2021/10/12|[A - Game of Life](https://leetcode.com/problems/game-of-life)||||
+|D-16|2021/10/05|[C - 길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)||||
+|D-17|2021/10/05|[B - 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)||||
+|D-18|2021/10/05|[A - 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)||||
+|D-19|2021/09/28|[C - 영훈이의 색칠공부](https://www.acmicpc.net/problem/14578)||||
+|D-20|2021/09/28|[B - 배](https://www.acmicpc.net/problem/1092)||||
+|D-21|2021/09/28|[A - 오리](https://www.acmicpc.net/problem/12933)||||
+|D-22|2021/09/14|[C - Merge Intervals](https://leetcode.com/problems/merge-intervals)||||
+|D-23|2021/09/14|[B - Valid Sudoku](https://leetcode.com/problems/valid-sudoku)||||
+|D-24|2021/09/14|[A - Subsets](https://leetcode.com/problems/subsets)||||
+|D-25|2021/09/07|[C - 가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)||||
+|D-26|2021/09/07|[B - 호텔 방 배정](https://programmers.co.kr/learn/courses/30/lessons/64063)||||
+|D-27|2021/09/07|[A - 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)||||
+|D-28|2021/08/31|[C - 수식최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)||||
+|D-29|2021/08/31|[B - 실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)||||
+|D-30|2021/08/31|[A - 오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)||||
+|D-31|2021/08/24|[C - 최소비용 구하기](https://www.acmicpc.net/problem/1916)||||
+|D-32|2021/08/24|[B - 떡국](https://www.acmicpc.net/problem/20937)||||
+|D-33|2021/08/24|[A - 팰린드롬 척화비](https://www.acmicpc.net/problem/20944)||||
+|D-34|2021/08/17|[B - Interleaving String](https://leetcode.com/problems/interleaving-string/)||🎈 00:25|🎈|
+|D-35|2021/08/17|[A - Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)||🎈 00:15|🎈 00:11|
 |D-36|2021/08/03|[C - 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|🎈 00:47|🎈 00:17|🎈 00:12|
 |D-37|2021/08/03|[B - 숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|🎈 00:33|🎈 00:09|🎈 00:12|
 |D-38|2021/08/03|[A - 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|🎈 00:28|🎈 00:25|🎈 00:05|
