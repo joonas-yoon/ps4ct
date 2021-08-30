@@ -36,11 +36,11 @@ problem solving for coding test
 |D-28|2021/08/31|[C - 수식최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)||||
 |D-29|2021/08/31|[B - 실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)||||
 |D-30|2021/08/31|[A - 오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)||||
-|D-31|2021/08/24|[C - 최소비용 구하기](https://www.acmicpc.net/problem/1916)||🎈 00:57|🎈|
-|D-32|2021/08/24|[B - 떡국](https://www.acmicpc.net/problem/20937)||🎈 00:13|🎈 00:10|
-|D-33|2021/08/24|[A - 팰린드롬 척화비](https://www.acmicpc.net/problem/20944)||🎈 00:01|🎈 00:05|
-|D-34|2021/08/17|[B - Interleaving String](https://leetcode.com/problems/interleaving-string/)||🎈 00:25|🎈|
-|D-35|2021/08/17|[A - Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)||🎈 00:15|🎈 00:11|
+|D-31|2021/08/24|[C - 최소비용 구하기](https://www.acmicpc.net/problem/1916)|🎈 00:39|🎈 00:57|🎈|
+|D-32|2021/08/24|[B - 떡국](https://www.acmicpc.net/problem/20937)|🎈 00:05|🎈 00:13|🎈 00:10|
+|D-33|2021/08/24|[A - 팰린드롬 척화비](https://www.acmicpc.net/problem/20944)|🎈 00:02|🎈 00:01|🎈 00:05|
+|D-34|2021/08/17|[B - Interleaving String](https://leetcode.com/problems/interleaving-string/)|🎈 00:32|🎈 00:25|🎈|
+|D-35|2021/08/17|[A - Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|🎈 00:10|🎈 00:15|🎈 00:11|
 |D-36|2021/08/03|[C - 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|🎈 00:47|🎈 00:17|🎈 00:12|
 |D-37|2021/08/03|[B - 숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|🎈 00:33|🎈 00:09|🎈 00:12|
 |D-38|2021/08/03|[A - 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|🎈 00:28|🎈 00:25|🎈 00:05|
